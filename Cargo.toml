@@ -1,9 +1,16 @@
+[[bin]]
+name = "licen"
+path = "src/bin/license.rs"
+
 [package]
-name = "license"
+name = "license-rs"
 version = "0.1.0"
 authors = ["clearloop <udtrokia@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+description = "The license generator"
+repository = "https://github.com/clearloop/license"
+license = "MIT"
+documentation = "https://docs.rs/license"
+homepage = "https://github.com/clearloop/license"
+keywords = ["development-tools"]
+readme = './README.md'

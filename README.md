@@ -1,6 +1,10 @@
-# license
+# licer
+[![doc](https://img.shields.io/badge/0.1.0-docs-green.svg)](https://docs.rs/licer/)
+[![Crates.io](https://img.shields.io/crates/v/licer.svg)](https://crates.io/crates/licer)
+[![Crates.io](https://img.shields.io/crates/d/licer.svg)](https://crates.io/crates/licer)
+[![LICENSE](https://img.shields.io/crates/l/licer.svg)](https://choosealicense.com/licenses/mit/)
 
-The LICENSE generator.
+The license generator.
 
 ref to [licensing a repository][0] and [choose a license][1].
 
