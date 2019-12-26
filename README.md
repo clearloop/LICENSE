@@ -11,19 +11,19 @@ ref to [licensing a repository][0] and [choose a license][1].
 ## Installation
 
 ```sh
-cargo install license
+cargo install licer
 ```
 
 ## Usage
 
 ```sh
-$ license
+$ licer
 clearloop <udtrokia@163.com>
 
 Usage:
-license <name>                     Generate a LICENSE
-license list                       Show available LICENSEs' list
-license info <name>                Print license contents in command-line
+licer <name>                     Generate a LICENSE
+licer list                       Show available LICENSEs' list
+licer info <name>                Print license contents in command-line
 ```
 
 ## Supports Licenses

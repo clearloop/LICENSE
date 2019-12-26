@@ -1,4 +1,28 @@
-use license::*;
+use license::{
+    apache,
+    artistic,
+    bsl,
+    bsd,
+    cc,
+    wtfpl,
+    ecl,
+    epl,
+    eupl,
+    agpl,
+    gpl,
+    lgpl,
+    isc,
+    lppl,
+    ms_pl,
+    mit,
+    mpl,
+    osl,
+    psql,
+    ofl,
+    ncsa,
+    unlicense,
+    zlib,
+};
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();

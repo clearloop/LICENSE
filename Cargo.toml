@@ -1,6 +1,6 @@
 [[bin]]
-name = "licen"
-path = "src/bin/license.rs"
+name = "licer"
+path = "src/bin/licer.rs"
 
 [package]
 name = "license-rs"
